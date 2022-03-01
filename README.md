@@ -14,6 +14,7 @@ Libraries:
 - urllib3==1.26.8
 
 Installation:
+<<<<<<< HEAD
 
 1. Create a virtual enviroment:
    - <code>python3 -m venv venv</code>
@@ -42,3 +43,7 @@ Installation:
    - <code>pip install -r requirements.txt</code>
 4. Run the program:
    - <code>python3 main.py</code>
+=======
+- pip install beatufiulsoup=4.10.0
+- pip install requests=2.27.1
+>>>>>>> ec33d388300f1d3195de84a640d5dab610c2544c
