@@ -1,4 +1,3 @@
-
 from bs4 import BeautifulSoup as bs
 import requests
 from constants import _URL, _AGENT
